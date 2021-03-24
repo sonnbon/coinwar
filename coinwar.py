@@ -1,4 +1,4 @@
-# HW6: Coin Wars
+# HW6: Coin War
 # Connor Williams 2021
 
 import sys
